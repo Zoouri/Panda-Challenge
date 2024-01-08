@@ -10,7 +10,7 @@ As a first task, you've been asked to analyse the area-wide standardised test re
 The purpose of this challenge is to create a script using Pandas and Jupyter Notebook that analyses school records based on a dataset provided. The aim is to create a code that calculates each of the following values:
 
 ![Screen Shot of Main Analysis](screen%20shoots/firstanalysis.png)
-###### Local Government Area (LGA) Summary
+#### Local Government Area (LGA) Summary
 Perform the necessary calculations and then create a high-level snapshot of the local government area's key metrics in a DataFrame.
 
 * Total number of unique schools
@@ -33,7 +33,7 @@ Perform the necessary calculations and then create a high-level snapshot of the 
 
 ![Screen Shot of local gov summary](screen%20shoots/localgovsummary.png)
 
-###### School Summary
+### School Summary
 Perform the necessary calculations and then create a DataFrame that summarises key metrics about each school.
 Include the following:
 
@@ -61,7 +61,7 @@ Include the following:
 
 ![Screen Shot of the key metrics DF](screen%20shoots/bigdataframe.png)
 
-###### Highest-Performing Schools (by % Overall Passing)
+### Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 Save the results in a DataFrame called "top_schools"
 
@@ -71,7 +71,7 @@ Save the results in a DataFrame called "top_schools"
 
 ![Screen Shot of the Top 5 performing Schools](screen%20shoots/hps.png)
 
-###### Lowest-Performing Schools (by % Overall Passing)
+### Lowest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 Save the results in a DataFrame called "bottom_schools".
 
@@ -81,7 +81,7 @@ Save the results in a DataFrame called "bottom_schools".
 
 ![Screen Shot of the Bottom 5 performing Schools](screen%20shoots/lps.png)
 
-###### Maths Scores by Year
+### Maths Scores by Year
 Perform the necessary calculations to create a DataFrame that lists the average maths score for students of each year level (9, 10, 11, 12) at each school.
 
 *Step by step:*
@@ -92,7 +92,7 @@ Perform the necessary calculations to create a DataFrame that lists the average 
 
 ![Screen Shot of the Math Scores per Year](screen%20shoots/msby.png)
 
-###### Reading Scores by Year
+### Reading Scores by Year
 Create a DataFrame that lists the average reading score for students of each year level (9, 10, 11, 12) at each school.
 
 *Step by step:*
@@ -103,7 +103,7 @@ Create a DataFrame that lists the average reading score for students of each yea
 
 ![Screen Shot of the Reading Scores per Year](screen%20shoots/rsby.png)
 
-###### Scores by School Spending
+### Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
 
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
@@ -118,7 +118,7 @@ Use the code provided below to create four bins with reasonable cutoff values to
 
 ![Screen Shot of the Scores by Spending](screen%20shoots/schoolsbyspending.png)
 
-###### Scores by School Size
+### Scores by School Size
 Use the following code to bin the per_school_summary.
 
 *Step by step:*
@@ -131,7 +131,7 @@ Use the following code to bin the per_school_summary.
 
 ![Screen Shot of the Scores by School Size](screen%20shoots/sbs.png)
 
-###### Scores by School Type
+### Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
