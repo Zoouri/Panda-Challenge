@@ -1,4 +1,4 @@
-![Cover photo](/screen%20shots/education.png)
+![Cover photo](/education.png)
 
 # Panda-Challenge :panda_face:
 *In this assignment, I’ll create and manipulate Pandas :panda_face: DataFrames to analyse school :student: and standardised test data.*
