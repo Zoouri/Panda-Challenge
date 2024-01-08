@@ -146,7 +146,7 @@ This new DataFrame should show school performance based on the "School Type".
 
 
 #### Technologies used
-* *Visual Studio Code - **Jupyter Notebook**
+* *Visual Studio Code* - **Jupyter Notebook**
 * *Excel* 
 * *GitHub* 
 * **Pandas**
