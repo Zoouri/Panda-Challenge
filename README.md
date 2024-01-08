@@ -1,4 +1,4 @@
-![Cover photo](/education.png)
+![Cover photo](screen%20shots/education.png)
 
 # Panda-Challenge :panda_face:
 *In this assignment, I’ll create and manipulate Pandas :panda_face: DataFrames to analyse school :student: and standardised test data.*
@@ -146,11 +146,11 @@ This new DataFrame should show school performance based on the "School Type".
 
 
 #### Technologies used
-* *Visual Studio Code - **Python** Software*
+* *Visual Studio Code - **Jupyter Notebook**
 * *Excel* 
 * *GitHub* 
 * **Pandas**
-* **Jupyter Notebook**
+
 
 #### File list
 * PyCitySchools_solved.ipynb
